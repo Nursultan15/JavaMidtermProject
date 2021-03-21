@@ -52,9 +52,9 @@ public class GameField extends JPanel implements ActionListener{
     }
 
     public void loadImages(){
-        ImageIcon iia = new ImageIcon("apple.png");
+        ImageIcon iia = new ImageIcon("apple11.png");
         apple = iia.getImage();
-        ImageIcon iid = new ImageIcon("apple.png");
+        ImageIcon iid = new ImageIcon("dot_icon_2.png");
         dot = iid.getImage();
     }
 
